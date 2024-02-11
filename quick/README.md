@@ -5,7 +5,7 @@
 
 ### 2. 使用方法
 
-- 打开[快捷方式](https://www.coolapk.com/apk/com.syyf.quickpay) -> 编辑、自定义 ->+ 自定义 -> 网络导入 -> URL填入下面网址
+- 打开[快捷方式](https://www.coolapk.com/apk/com.syyf.quickpay) -> 编辑、自定义 -> +自定义 -> 网络导入 -> URL填入下面网址
 
   ```bash
   https://xbta.cc/qc
