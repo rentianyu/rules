@@ -15,8 +15,8 @@
             "type": 2
         },
         {
-            "name": "Surfboard_切换",
-            "title": "Surfboard_切换",
+            "name": "Surfboard_开关切换",
+            "title": "Surfboard_开关切换",
             "path": "surfboard:///toggle",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.ico",
             "type": 2
