@@ -27,9 +27,9 @@
         {
             "title": "中国移动_合集",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
-            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/china_mobile.json'}",
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/china_mobile.json'}]}",
             "directly": true
         },
         {
