@@ -1,6 +1,7 @@
 ### 1. 项目简介
 
 - [快捷方式](https://www.coolapk.com/apk/com.syyf.quickpay)的在线规则库
+- 欢迎大家贡献规则
 
 ### 2. 使用方法
 

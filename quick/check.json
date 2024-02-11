@@ -4,21 +4,16 @@
             "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
             "name": "钉钉打卡",
             "path": "dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html",
-            "subname": "钉钉",
             "type": 2
         },
         {
             "name": "云闪付_天天签到",
-            "title": "云闪付_天天签到",
-            "subname": "云闪付",
             "path": "upwallet://applet?encryptAppId=472741b326b7bb5c",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.ico",
             "type": 2
         },
         {
-            "name": "云闪付_会员中心-领积点",
             "title": "云闪付_会员中心-领积点",
-            "subname": "云闪付",
             "path": "upwallet://applet?encryptAppId=472741b326b7bb5c&toLink=https://youhui.95516.com/newsign/public/app/index.html",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.ico",
             "type": 2
@@ -26,7 +21,6 @@
         {
             "name": "京东金融_金贴签到",
             "title": "京东金融_金贴签到",
-            "subname": "京东金融",
             "path": "jdmobile://share?jumpType=1&jumpUrl=6859",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/neater/jingdongjinrong.png",
             "type": 2
@@ -34,7 +28,6 @@
         {
             "name": "京东金融_省钱中心-领积分界面",
             "title": "京东金融_省钱中心-领积分界面",
-            "subname": "jdmobile://share?jumpType=1&jumpUrl=4797",
             "path": "url",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/neater/jingdongjinrong.png",
             "type": 2
@@ -42,7 +35,6 @@
         {
             "name": "支付宝_支付宝会员-领积分",
             "title": "支付宝_支付宝会员-领积分",
-            "subname": "支付宝",
             "path": "alipays://platformapi/startapp?appId=20000160",
             "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_alipay.png",
             "type": 2
@@ -50,7 +42,6 @@
         {
             "name": "联通营业厅_签到",
             "title": "联通营业厅_签到",
-            "subname": "软件",
             "path": "chinaunicom://?open=%7B%22openType%22:%22url%22,%22openUrl%22:%22https://act.10010.com/SigninApp/signin/querySigninActivity.htm%22%7D",
             "icon": "联通营业厅",
             "type": 2
@@ -58,7 +49,6 @@
         {
             "name": "联通营业厅_转盘抽奖",
             "title": "联通营业厅_转盘抽奖",
-            "subname": "软件",
             "path": "chinaunicom://?open=%7B%22openUrl%22:%22https://m.client.10010.com/dailylottery/static/textdl/userLogin%22%7D%0A",
             "icon": "联通营业厅",
             "type": 2
@@ -66,7 +56,6 @@
         {
             "name": "奇妙应用_签到",
             "title": "奇妙应用_签到",
-            "subname": "设置",
             "path": "com.magicalstory.AppStore.user.sign.signActivity",
             "pkg": "com.magicalstory.AppStore",
             "type": 0
@@ -74,7 +63,6 @@
         {
             "name": "中国移动云盘_领云朵",
             "title": "中国移动云盘_领云朵",
-            "subname": "中国移动云盘",
             "path": "mcloud://main/webView?params=eyJ0aXRsZSI6IiIsImxpbmtVcmwiOiJodHRwczovL2NhaXl1bi5mZWl4aW4uMTAwODYuY246NzA3MS9wb3J0YWwvbmV3c2lnbmluL2luZGV4Lmh0bWw/c291cmNlaWQ9MTA5NSZ0b2tlbj0jc3NvVG9rZW4jIn0=",
             "icon": "图标",
             "type": 2
@@ -82,14 +70,12 @@
         {
             "name": "",
             "title": "",
-            "subname": "",
             "path": "",
             "icon": ""
         },
         {
             "name": "",
             "title": "",
-            "subname": "",
             "path": "",
             "icon": ""
         }
