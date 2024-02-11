@@ -4,28 +4,28 @@
             "name": "Surfboard_打开",
             "title": "Surfboard_打开",
             "path": "surfboard:///start",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.png",
             "type": 2
         },
         {
             "name": "Surfboard_关闭",
             "title": "Surfboard_关闭",
             "path": "surfboard:///stop",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.png",
             "type": 2
         },
         {
             "name": "Surfboard_开关切换",
             "title": "Surfboard_开关切换",
             "path": "surfboard:///toggle",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.png",
             "type": 2
         },
         {
             "name": "Surfboard_从url导入配置文件",
             "title": "Surfboard_从url导入配置文件",
             "path": "surfboard:///install-config?url=[encoded_profile_url]",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.png",
             "type": 2
         }
     ]

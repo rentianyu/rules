@@ -18,7 +18,7 @@
         },
         {
             "title": "京东_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/jd.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
@@ -26,7 +26,7 @@
         },
         {
             "title": "中国移动_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/china_mobile.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
@@ -34,7 +34,7 @@
         },
         {
             "title": "云闪付_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/upwallet.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
@@ -42,7 +42,7 @@
         },
         {
             "title": "Surfboard_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/surfboard.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/surfboard.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
@@ -50,7 +50,7 @@
         },
         {
             "title": "Google Play_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/google_play.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/google_play.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/google_play.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
@@ -58,7 +58,7 @@
         },
         {
             "title": "小米应用商店_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/market_mi.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/market_mi.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/market_mi.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
@@ -66,7 +66,7 @@
         },
         {
             "title": "MT管理器_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mt_plus.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mt_plus.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/jd.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
@@ -74,8 +74,16 @@
         },
         {
             "title": "系统设置_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/settings.json'}]}",
+            "directly": true,
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity"
+        },
+        {
+            "title": "扫一扫_合集",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/oppo_smart_scan.png",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/scan.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity"

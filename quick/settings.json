@@ -4,259 +4,259 @@
             "name": "系统设置_无障碍",
             "title": "系统设置_无障碍",
             "path": "intent:#Intent;action=android.settings.ACCESSIBILITY_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_通知使用权",
             "title": "系统设置_通知使用权",
             "path": "intent:#Intent;action=android.settings.ACTION_NOTIFICATION_LISTENER_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_开发者选项",
             "title": "系统设置_开发者选项",
             "path": "intent:#Intent;action=android.settings.APPLICATION_DEVELOPMENT_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_蓝牙设置",
             "title": "系统设置_蓝牙设置",
             "path": "intent:#Intent;action=android.settings.BLUETOOTH_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_通话界面",
             "title": "系统设置_通话界面",
             "path": "intent:#Intent;action=android.intent.action.CALL_BUTTON;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_日期设置",
             "title": "系统设置_日期设置",
             "path": "intent:#Intent;action=android.settings.DATE_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_关于手机",
             "title": "系统设置_关于手机",
             "path": "intent:#Intent;action=android.settings.DEVICE_INFO_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_显示设置",
             "title": "系统设置_显示设置",
             "path": "intent:#Intent;action=android.settings.DISPLAY_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_屏保",
             "title": "系统设置_屏保",
             "path": "intent:#Intent;action=android.settings.DREAM_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_电池优化",
             "title": "系统设置_电池优化",
             "path": "intent:#Intent;action=android.settings.IGNORE_BATTERY_OPTIMIZATION_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_默认默认桌面设置-原生",
             "title": "系统设置_默认默认桌面设置-原生",
             "path": "intent:#Intent;action=android.settings.HOME_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_可用虚拟键盘",
             "title": "系统设置_可用虚拟键盘",
             "path": "intent:#Intent;action=android.settings.INPUT_METHOD_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_输入法键盘设置",
             "title": "系统设置_输入法键盘设置",
             "path": "intent:#Intent;action=android.settings.INPUT_METHOD_SUBTYPE_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_设置语言",
             "title": "系统设置_设置语言",
             "path": "intent:#Intent;action=android.settings.LOCALE_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_位置信息",
             "title": "系统设置_位置信息",
             "path": "intent:#Intent;action=android.settings.LOCATION_SOURCE_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_应用管理",
             "title": "系统设置_应用管理",
             "path": "intent:#Intent;action=android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_默认应用-原生",
             "title": "系统设置_默认应用-原生",
             "path": "intent:#Intent;action=android.settings.MANAGE_DEFAULT_APPS_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_显示在其他应用的上层",
             "title": "系统设置_显示在其他应用的上层",
             "path": "intent:#Intent;action=android.settings.action.MANAGE_OVERLAY_PERMISSION;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_安装未知应用",
             "title": "系统设置_安装未知应用",
             "path": "intent:#Intent;action=android.settings.MANAGE_UNKNOWN_APP_SOURCES;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_可修改系统设置",
             "title": "系统设置_可修改系统设置",
             "path": "intent:#Intent;action=android.settings.action.MANAGE_WRITE_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_打开音乐应用",
             "title": "系统设置_打开音乐应用",
             "path": "intent:#Intent;action=android.intent.action.MUSIC_PLAYER;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_护眼模式",
             "title": "系统设置_护眼模式",
             "path": "intent:#Intent;action=android.settings.NIGHT_DISPLAY_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_“勿扰”权限",
             "title": "系统设置_“勿扰”权限",
             "path": "intent:#Intent;action=android.settings.NOTIFICATION_POLICY_ACCESS_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_耗电统计",
             "title": "系统设置_耗电统计",
             "path": "intent:#Intent;action=android.intent.action.POWER_USAGE_SUMMARY;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_隐私权",
             "title": "系统设置_隐私权",
             "path": "intent:#Intent;action=android.settings.PRIVACY_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_打开录音机",
             "title": "系统设置_打开录音机",
             "path": "intent:#Intent;action=android.provider.MediaStore.RECORD_SOUND;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_安全",
             "title": "系统设置_安全",
             "path": "intent:#Intent;action=android.settings.SECURITY_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_打开系统设置",
             "title": "系统设置_打开系统设置",
             "path": "intent:#Intent;action=android.settings.SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_声音与振动",
             "title": "系统设置_声音与振动",
             "path": "android.settings.SOUND_SETTINGS",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_帐号与同步",
             "title": "系统设置_帐号与同步",
             "path": "intent:#Intent;action=android.settings.SYNC_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_有权查看使用情况的应用",
             "title": "系统设置_有权查看使用情况的应用",
             "path": "intent:#Intent;action=android.settings.USAGE_ACCESS_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_语音助手(比如小爱同学)",
             "title": "系统设置_语音助手(比如小爱同学)",
             "path": "intent:#Intent;action=android.intent.action.VOICE_COMMAND;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_设置 WebView 实现",
             "title": "系统设置_设置 WebView 实现",
             "path": "intent:#Intent;action=android.settings.WEBVIEW_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_WLAN 偏好设置",
             "title": "系统设置_WLAN 偏好设置",
             "path": "intent:#Intent;action=android.settings.WIFI_IP_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_WLAN设置",
             "title": "系统设置_WLAN设置",
             "path": "android.settings.WIFI_SETTINGS",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_连接与共享",
             "title": "系统设置_连接与共享",
             "path": "intent:#Intent;action=android.settings.WIRELESS_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         },
         {
             "name": "系统设置_防打扰",
             "title": "系统设置_防打扰",
             "path": "intent:#Intent;action=android.settings.ZEN_MODE_PRIORITY_SETTINGS;end",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.png",
             "type": 2
         }
     ]

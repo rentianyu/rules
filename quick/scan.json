@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "name": "微信_扫一扫",
+            "title": "微信_扫一扫",
+            "path": "intent:#Intent;component=com.tencent.mm/.plugin.scanner.ui.BaseScanUI;i.key_scan_entry_scene=1;end",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/wechat_shortcut_1.png",
+            "type": 2
+        },
+        {
+            "name": "支付宝_扫一扫",
+            "title": "支付宝_扫一扫",
+            "path": "alipays://platformapi/startapp?appId=10000007",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/alipay_shortcut_1.png",
+            "type": 2
+        },
+        {
+            "name": "云闪付_扫一扫",
+            "title": "云闪付_扫一扫",
+            "path": "upwallet://native/scanCode",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/oppo_smart_scan.png",
+            "type": 2
+        },
+        {
+            "name": "淘宝_扫一扫",
+            "title": "淘宝_扫一扫",
+            "path": "taobao://tb.cn/n/scancode",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/oppo_smart_scan.png",
+            "type": 2
+        },
+        {
+            "name": "",
+            "title": "",
+            "path": "url",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/oppo_smart_scan.png",
+            "type": 2
+        }
+    ]
+}
