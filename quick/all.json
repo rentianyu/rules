@@ -73,7 +73,7 @@
             "path": "com.syyf.quickpay.act.RulesActivity"
         },
         {
-            "title": "_合集",
+            "title": "系统设置_合集",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/settings.ico",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/settings.json'}]}",
             "directly": true,
