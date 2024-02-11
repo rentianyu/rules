@@ -39,7 +39,7 @@
             "name": "支付宝_支付宝会员-领积分",
             "title": "支付宝_支付宝会员-领积分",
             "path": "alipays://platformapi/startapp?appId=20000160",
-            "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_alipay.png",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/alipay.ico",
             "type": 2
         },
         {
