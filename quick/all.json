@@ -57,10 +57,16 @@
             "directly": true
         },
         {
-            "title": "_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/google_play.ico",
+            "title": "小米应用商店_合集",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/market_mi.ico",
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/market_mi.json'}]}",
+            "directly": true
+        },
+        {
+            "title": "_合集",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/google_play.ico",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/jd.json'}]}",
             "directly": true
         }
