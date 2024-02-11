@@ -24,7 +24,7 @@
             "directly": true
         },
         {
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/china_mobile.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/cmcc_10086.ico",
             "title": "中国移动",
             "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/china_mobile.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"签到合集\"}]}",
             "pkg": "com.syyf.quickpay",
