@@ -11,7 +11,7 @@
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/%E7%AD%BE%E5%88%B0.png",
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity",
-            "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/media/main/quick/check.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"签到合集\"}]}",
+            "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/check.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"签到合集\"}]}",
             "title": "签到合集",
             "directly": true
         }

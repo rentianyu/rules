@@ -1,6 +1,5 @@
 {
     "data": [
-        
         {
             "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
             "name": "钉钉打卡",
@@ -79,48 +78,6 @@
             "path": "mcloud://main/webView?params=eyJ0aXRsZSI6IiIsImxpbmtVcmwiOiJodHRwczovL2NhaXl1bi5mZWl4aW4uMTAwODYuY246NzA3MS9wb3J0YWwvbmV3c2lnbmluL2luZGV4Lmh0bWw/c291cmNlaWQ9MTA5NSZ0b2tlbj0jc3NvVG9rZW4jIn0=",
             "icon": "图标",
             "type": 2
-        },
-        {
-            "name": "名称",
-            "title": "名称",
-            "subname": "软件",
-            "path": "url",
-            "icon": "图标"
-        },
-        {
-            "name": "",
-            "title": "",
-            "subname": "",
-            "path": "",
-            "icon": ""
-        },
-        {
-            "name": "",
-            "title": "",
-            "subname": "",
-            "path": "",
-            "icon": ""
-        },
-        {
-            "name": "",
-            "title": "",
-            "subname": "",
-            "path": "",
-            "icon": ""
-        },
-        {
-            "name": "",
-            "title": "",
-            "subname": "",
-            "path": "",
-            "icon": ""
-        },
-        {
-            "name": "",
-            "title": "",
-            "subname": "",
-            "path": "",
-            "icon": ""
         },
         {
             "name": "",
