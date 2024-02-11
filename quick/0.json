@@ -1,9 +1,9 @@
-    },
-    {
-    "title": "_合集",
-    "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/名称.ico",
-    "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/名称.json'}]}",
-    "directly": true
-    }
-  ]
+        },
+        {
+            "title": "_合集",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/名称.ico",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/名称.json'}]}",
+            "directly": true
+        }
+    ]
 }

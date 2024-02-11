@@ -12,62 +12,62 @@
 // workMode 工作模式，0 普通，1 Root，2 Shizuku。
 // 规则编写示范：
 {
-  "data": [
-    {
-      "icon": "图标",
-      "name": "实时公交",
-      "path": "amapuri://realtimeBus/home",
-      "subname": "高德",
-      "title": "公交：高德实时",
-      "type": 2
-    },
-    {
-      "icon": "图标",
-      "name": "实时公交",
-      "path": "intent:#Intent;action=android.settings.DISPLAY_SETTINGS;launchFlags=0x1000c000;end",
-      "subname": "高德",
-      "title": "公交：高德实时",
-      "type": 2
-    },
-    {
-      "name": "演示模式",
-      "pkg": "com.android.systemui",
-      "path": "com.android.systemui.DemoMode",
-      "subname": "需要安卓11+(MIUI不支持)",
-      "title": "A系统界面演示模式",
-      "type": 0,
-      "directly": true,
-      "andVer": 30
-    },
-    {
-      "name": "添加极暗磁贴",
-      "title": "极暗模式磁贴",
-      "subname": "需要安卓12+",
-      "path": "var=$(settings get secure sysui_qs_tiles)\nvar=${var/wifi,/wifi,reduce_brightness,}\nsettings put secure sysui_qs_tiles “$var”",
-      "type": 3,
-      "author": "酷安@Chikachan",
-      "workMode": 2,
-      "andVer": 31
-    },
-    {
-      "title": "夸克小说",
-      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_quark.png",
-      "extras": "{\"action\":\"android.intent.action.VIEW\",\"category\":\"\",\"data\":\"https://www.myquark.cn/?qk_biz\\u003dnovel\\u0026qk_module\\u003dbookshelf\",\"extras\":[]}",
-      "name": "书架",
-      "path": "com.ucpro.MainActivity",
-      "pkg": "com.quark.browser",
-      "subname": "夸克",
-      "type": 0
-    },
-    {
-      "icon": "android.resource://com.syyf.quickpay/drawable/quick_bluetooth",
-      "name": "蓝牙",
-      "title": "蓝牙开关(安卓12及以下)",
-      "subname": "开关",
-      "pkg": "{\"delay\":0,\"item\":{\"appId\":\"com.syyf.quickpay\",\"iconPath\":\"\",\"id\":0,\"name\":\"开蓝牙\",\"param1\":\"{\\\"extras\\\":[{\\\"key\\\":\\\"open\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"}]}\",\"path\":\"com.syyf.quickpay.act.ToggleBleActivity\"}}",
-      "path": "{\"delay\":0,\"item\":{\"appId\":\"com.syyf.quickpay\",\"iconPath\":\"\",\"id\":0,\"name\":\"关蓝牙\",\"param1\":\"{\\\"extras\\\":[{\\\"key\\\":\\\"open\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"false\\\"}]}\",\"path\":\"com.syyf.quickpay.act.ToggleBleActivity\"}}",
-      "version": 71,
-      "type": 7
-    }
-  ]
+    "data": [
+        {
+            "icon": "图标",
+            "name": "实时公交",
+            "path": "amapuri://realtimeBus/home",
+            "subname": "高德",
+            "title": "公交：高德实时",
+            "type": 2
+        },
+        {
+            "icon": "图标",
+            "name": "实时公交",
+            "path": "intent:#Intent;action=android.settings.DISPLAY_SETTINGS;launchFlags=0x1000c000;end",
+            "subname": "高德",
+            "title": "公交：高德实时",
+            "type": 2
+        },
+        {
+            "name": "演示模式",
+            "pkg": "com.android.systemui",
+            "path": "com.android.systemui.DemoMode",
+            "subname": "需要安卓11+(MIUI不支持)",
+            "title": "A系统界面演示模式",
+            "type": 0,
+            "directly": true,
+            "andVer": 30
+        },
+        {
+            "name": "添加极暗磁贴",
+            "title": "极暗模式磁贴",
+            "subname": "需要安卓12+",
+            "path": "var=$(settings get secure sysui_qs_tiles)\nvar=${var/wifi,/wifi,reduce_brightness,}\nsettings put secure sysui_qs_tiles “$var”",
+            "type": 3,
+            "author": "酷安@Chikachan",
+            "workMode": 2,
+            "andVer": 31
+        },
+        {
+            "title": "夸克小说",
+            "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_quark.png",
+            "extras": "{\"action\":\"android.intent.action.VIEW\",\"category\":\"\",\"data\":\"https://www.myquark.cn/?qk_biz\\u003dnovel\\u0026qk_module\\u003dbookshelf\",\"extras\":[]}",
+            "name": "书架",
+            "path": "com.ucpro.MainActivity",
+            "pkg": "com.quark.browser",
+            "subname": "夸克",
+            "type": 0
+        },
+        {
+            "icon": "android.resource://com.syyf.quickpay/drawable/quick_bluetooth",
+            "name": "蓝牙",
+            "title": "蓝牙开关(安卓12及以下)",
+            "subname": "开关",
+            "pkg": "{\"delay\":0,\"item\":{\"appId\":\"com.syyf.quickpay\",\"iconPath\":\"\",\"id\":0,\"name\":\"开蓝牙\",\"param1\":\"{\\\"extras\\\":[{\\\"key\\\":\\\"open\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"}]}\",\"path\":\"com.syyf.quickpay.act.ToggleBleActivity\"}}",
+            "path": "{\"delay\":0,\"item\":{\"appId\":\"com.syyf.quickpay\",\"iconPath\":\"\",\"id\":0,\"name\":\"关蓝牙\",\"param1\":\"{\\\"extras\\\":[{\\\"key\\\":\\\"open\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"false\\\"}]}\",\"path\":\"com.syyf.quickpay.act.ToggleBleActivity\"}}",
+            "version": 71,
+            "type": 7
+        }
+    ]
 }
