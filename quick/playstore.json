@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "name": "Google Play_管理应用和设备",
+            "title": "Google Play_管理应用和设备",
+            "path": "intent:#Intent;action=com.google.android.finsky.VIEW_MY_DOWNLOADS;launchFlags=0x1000c000;end",
+            "icon": "图标",
+            "type": 2
+        }
+    ]
+}
+

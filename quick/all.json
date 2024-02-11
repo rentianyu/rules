@@ -49,11 +49,19 @@
             "directly": true
         },
         {
-            "title": "合集",
-            "icon": "图标",
-            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/jd.json'}",
+            "title": "Google Play_合集",
+            "icon": "",
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/playstore.json'}]}",
+            "directly": true
+        },
+        {
+            "title": "_合集",
+            "icon": "",
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/jd.json'}]}",
             "directly": true
         }
     ]
