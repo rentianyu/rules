@@ -1,8 +1,9 @@
 {
     "data": [
         {
-            "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/neater/dingtalk.ico",
             "name": "钉钉打卡",
+            "title": "钉钉打卡",
             "path": "dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html",
             "type": 2
         },
