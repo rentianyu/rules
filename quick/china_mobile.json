@@ -4,35 +4,35 @@
             "name": "中国移动_打开自定义网址",
             "title": "中国移动_打开自定义网址",
             "path": "com.greenpoint://android.mc10086.activity?url=网址",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/cmcc_10086.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
             "type": 2
         },
         {
             "name": "中国移动_我的-签到领话费-广东用户",
             "title": "中国移动_我的-签到领话费-广东用户",
             "path": "com.greenpoint://android.mc10086.activity?url=https://gd.10086.cn/gmccapp/confactpage/checkInNew/index.html?channelId=P00000057578",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/cmcc_10086.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
             "type": 2
         },
         {
             "name": "签到有礼-貌似全国通用-山东可行",
             "title": "签到有礼-貌似全国通用-山东可行",
             "path": "com.greenpoint://android.mc10086.activity?url=https://h.app.coc.10086.cn/activity/transferXcx/index.html?platform=cmcc&path=pages/qwhdmark/views/home/index&appId=8463803521674337",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/cmcc_10086.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
             "type": 2
         },
         {
             "name": "中国移动_首页-我的秦币-陕西用户",
             "title": "中国移动_首页-我的秦币-陕西用户",
             "path": "com.greenpoint://android.mc10086.activity?url=https://sn.clientaccess.10086.cn/html5/sx/eCoinNew/eCoin.html?channelId=P00000061840&si_n=秦币专区",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/cmcc_10086.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
             "type": 2
         },
         {
             "name": "中国移动_首页-天天领奖-陕西用户",
             "title": "中国移动_首页-天天领奖-陕西用户",
             "path": "com.greenpoint://android.mc10086.activity?url=https://sn.clientaccess.10086.cn/html5/sx/mobileFoot/index.html?channelId=P00000061842&si_n=移动足迹",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/cmcc_10086.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
             "type": 2
         }
     ]
