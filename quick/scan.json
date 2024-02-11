@@ -3,7 +3,7 @@
         {
             "name": "微信_扫一扫",
             "title": "微信_扫一扫",
-            "path": "intent:#Intent;component=com.tencent.mm/.plugin.scanner.ui.BaseScanUI;i.key_scan_entry_scene=1;end",
+            "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;B.LauncherUI.From.Scaner.Shortcut=true;end",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/wechat_shortcut_1.png",
             "type": 2
         },
