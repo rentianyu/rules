@@ -33,8 +33,24 @@
             "directly": true
         },
         {
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.ico",
+            "title": "云闪付合集",
+            "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/upwallet.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"签到合集\"}]}",
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity",
+            "directly": true
+        },
+        {
             "icon": "图标",
-            "title": "包名",
+            "title": "合集",
+            "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/jd.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"签到合集\"}]}",
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity",
+            "directly": true
+        },
+        {
+            "icon": "图标",
+            "title": "合集",
             "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/jd.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"签到合集\"}]}",
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity",

@@ -61,6 +61,7 @@
             "title": "奇妙应用_签到",
             "path": "com.magicalstory.AppStore.user.sign.signActivity",
             "pkg": "com.magicalstory.AppStore",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/collect/magicalstory.png",
             "type": 0
         },
         {
