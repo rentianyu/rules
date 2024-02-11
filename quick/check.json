@@ -8,11 +8,13 @@
         },
         {
             "name": "云闪付_天天签到",
+            "title": "云闪付_天天签到",
             "path": "upwallet://applet?encryptAppId=472741b326b7bb5c",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.ico",
             "type": 2
         },
         {
+            "name": "云闪付_会员中心-领积点",
             "title": "云闪付_会员中心-领积点",
             "path": "upwallet://applet?encryptAppId=472741b326b7bb5c&toLink=https://youhui.95516.com/newsign/public/app/index.html",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.ico",
@@ -28,7 +30,7 @@
         {
             "name": "京东金融_省钱中心-领积分界面",
             "title": "京东金融_省钱中心-领积分界面",
-            "path": "url",
+            "path": "jdmobile://share?jumpType=1&jumpUrl=4797",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/neater/jingdongjinrong.png",
             "type": 2
         },
@@ -43,14 +45,14 @@
             "name": "联通营业厅_签到",
             "title": "联通营业厅_签到",
             "path": "chinaunicom://?open=%7B%22openType%22:%22url%22,%22openUrl%22:%22https://act.10010.com/SigninApp/signin/querySigninActivity.htm%22%7D",
-            "icon": "联通营业厅",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/neater/unicom.ico",
             "type": 2
         },
         {
             "name": "联通营业厅_转盘抽奖",
             "title": "联通营业厅_转盘抽奖",
             "path": "chinaunicom://?open=%7B%22openUrl%22:%22https://m.client.10010.com/dailylottery/static/textdl/userLogin%22%7D%0A",
-            "icon": "联通营业厅",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/neater/unicom.ico",
             "type": 2
         },
         {
@@ -64,20 +66,57 @@
             "name": "中国移动云盘_领云朵",
             "title": "中国移动云盘_领云朵",
             "path": "mcloud://main/webView?params=eyJ0aXRsZSI6IiIsImxpbmtVcmwiOiJodHRwczovL2NhaXl1bi5mZWl4aW4uMTAwODYuY246NzA3MS9wb3J0YWwvbmV3c2lnbmluL2luZGV4Lmh0bWw/c291cmNlaWQ9MTA5NSZ0b2tlbj0jc3NvVG9rZW4jIn0=",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
+            "type": 2
+        },
+        {
+            "name": "咪咕视频_首页福利中心-广东移动",
+            "title": "咪咕视频_首页福利中心-广东移动",
+            "path": "miguvideo: //miguvideo?action={'type':'JUMP_H5_BY_WEB_VIEW','params':{'url':'https: //m.miguvideo.com/mgs/promotion/subject/province_welfare/prd/index.html?pageId=9e1e1ba9b7a949ed9ed953a95251a3a5'}}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/migu_video.ico",
+            "type": 2
+        },
+        {
+            "name": "中国移动_我的-签到领话费-广东用户",
+            "title": "中国移动_我的-签到领话费-广东用户",
+            "path": "com.greenpoint://android.mc10086.activity?url=https://gd.10086.cn/gmccapp/confactpage/checkInNew/index.html?channelId=P00000057578",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
+            "type": 2
+        },
+        {
+            "name": "签到有礼-貌似全国通用-山东可行",
+            "title": "签到有礼-貌似全国通用-山东可行",
+            "path": "com.greenpoint://android.mc10086.activity?url=https://h.app.coc.10086.cn/activity/transferXcx/index.html?platform=cmcc&path=pages/qwhdmark/views/home/index&appId=8463803521674337",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/cmcc_10086.ico",
+            "type": 2
+        },
+        {
+            "name": "",
+            "title": "",
+            "path": "url",
             "icon": "图标",
             "type": 2
         },
         {
             "name": "",
             "title": "",
-            "path": "",
-            "icon": ""
+            "path": "url",
+            "icon": "图标",
+            "type": 2
         },
         {
             "name": "",
             "title": "",
-            "path": "",
-            "icon": ""
+            "path": "url",
+            "icon": "图标",
+            "type": 2
+        },
+        {
+            "name": "",
+            "title": "",
+            "path": "url",
+            "icon": "图标",
+            "type": 2
         }
     ]
 }

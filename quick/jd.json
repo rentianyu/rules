@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "name": "京东_打开指定网址",
+            "title": "京东_打开指定网址",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'网址'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.ico",
+            "type": 2
+        },
+        {
+            "name": "京东_保价中心",
+            "title": "京东_保价中心",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://msitepp-fm.jd.com/rest/priceprophone/priceProPhoneMenu'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.ico",
+            "type": 2
+        }
+    ]
+}

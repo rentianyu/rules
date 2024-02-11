@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "name": "云闪付_扫一扫",
+            "title": "云闪付_扫一扫",
+            "path": "upwallet://native/scanCode",
+            "icon": "icon_url",
+            "type": 2
+        },
+        {
+            "name": "云闪付_付款码",
+            "title": "云闪付_付款码",
+            "path": "upwallet://native/codepay",
+            "icon": "icon_url",
+            "type": 2
+        },
+        {
+            "name": "云闪付_打开指定网址",
+            "title": "云闪付_打开指定网址",
+            "path": "upwallet://applet?encryptAppId=472741b326b7bb5c&toLink=网址",
+            "icon": "icon_url",
+            "type": 2
+        },
+        {
+            "name": "云闪付_银联有礼乐开花",
+            "title": "云闪付_银联有礼乐开花",
+            "path": "upwallet://applet?encryptAppId=472741b326b7bb5c&toLink=https://benefits.95516.com/upbms-web/customActivities/seasonalPrize/progress/36662",
+            "icon": "icon_url",
+            "type": 2
+        },
+        {
+            "name": "云闪付_签到",
+            "title": "云闪付_签到",
+            "path": "upwallet://applet?encryptAppId=472741b326b7bb5c&toLink=https://youhui.95516.com/newsign/public/app/index.html",
+            "icon": "icon_url",
+            "type": 2
+        }
+    ]
+}
