@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "MT管理器_打开指定文件",
+      "title": "",
+      "path": "intent:file://文件路径#Intent;launchFlags=0x10000000;component=bin.mt.plus/l.%DB%9A%DB%A4%DB%98;end",
+      "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mt_plus.ico",
+      "type": 2
+    },
+    {
+      "name": "MT管理器_打开指定文件夹",
+      "title": "",
+      "path": "intent:file://文件夹路径#Intent;launchFlags=0x10000000;component=bin.mt.plus/.MainLightIcon;end",
+      "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mt_plus.ico",
+      "type": 2
+    }
+  ]
+}
