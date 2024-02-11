@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_alipay.png",
+      "name": " ",
+      "pkg": "com.syyf.quickpay",
+      "path": "com.syyf.quickpay.act.RulesActivity",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-alipay.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"支付宝合集\"}]}",
+      "subname": "App1.7.0及以上支持",
+      "title": "A 支付宝合集",
+      "type": 0,
+      "directly": true,
+      "version": 71
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_wechat.png",
+      "name": " ",
+      "pkg": "com.syyf.quickpay",
+      "path": "com.syyf.quickpay.act.RulesActivity",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-wx.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"微信合集\"}]}",
+      "subname": "App1.7.0及以上支持",
+      "title": "A 微信合集",
+      "type": 0,
+      "directly": true,
+      "version": 71
+    },
+    {
+      "name": "演示模式",
+      "pkg": "com.android.systemui",
+      "path": "com.android.systemui.DemoMode",
+      "subname": "需要安卓11+(MIUI不支持)",
+      "title": "A系统界面演示模式",
+      "type": 0,
+      "directly": true,
+      "andVer": 30
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_douyin.png",
+      "name": " ",
+      "pkg": "com.syyf.quickpay",
+      "path": "com.syyf.quickpay.act.RulesActivity",
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"url\",\"type\":\"--es\",\"value\":\"https://gitee.com/night99/filebackup/raw/master/quickpay/rule/rules-dy.json\"},{\"key\":\"title\",\"type\":\"--es\",\"value\":\"抖音合集\"}]}",
+      "title": "A 抖音合集",
+      "type": 0,
+      "directly": true,
+      "version": 71
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_lock.png",
+      "name": "一键锁屏",
+      "path": "com.syyf.quickpay.act.AcbtLockScreenActivity",
+      "pkg": "com.syyf.quickpay",
+      "title": "D-无障碍锁屏",
+      "subname": "",
+      "type": 0,
+      "andVer": 28,
+      "version": 85
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"type\",\"type\":\"--es\",\"value\":\"lock\"}]}",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_lock.png",
+      "name": "Dhizuku锁屏",
+      "path": "com.syyf.quickpay.act.DhizukuActivity",
+      "pkg": "com.syyf.quickpay",
+      "title": "Dhizuku锁屏",
+      "subname": "",
+      "type": 0,
+      "version": 83
+    },
+    {
+      "name": "Dhizuku冻结解冻",
+      "title": "Dhizuku冻结解冻",
+      "path": "{\"item\":{\"appId\":\"com.syyf.quickpay\",\"name\":\"冻结\",\"iconPath\":\"\",\"param1\":\"{\\\"action\\\":\\\"\\\",\\\"category\\\":\\\"\\\",\\\"data\\\":\\\"\\\",\\\"extras\\\":[{\\\"key\\\":\\\"package\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"包名，v1.8.3起支持批量，逗号分隔\\\"},{\\\"key\\\":\\\"showToast\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"hidden\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"type\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"hidden\\\"}]}\",\"path\":\"com.syyf.quickpay.act.DhizukuActivity\"}}",
+      "pkg": "{\"item\":{\"appId\":\"com.syyf.quickpay\",\"name\":\"解冻\",\"iconPath\":\"\",\"param1\":\"{\\\"action\\\":\\\"\\\",\\\"category\\\":\\\"\\\",\\\"data\\\":\\\"\\\",\\\"extras\\\":[{\\\"key\\\":\\\"package\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"包名\\\"},{\\\"key\\\":\\\"showToast\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"},{\\\"key\\\":\\\"hidden\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"false\\\"},{\\\"key\\\":\\\"type\\\",\\\"type\\\":\\\"--es\\\",\\\"value\\\":\\\"hidden\\\"}]}\",\"path\":\"com.syyf.quickpay.act.DhizukuActivity\"}}",
+      "subname": "开关",
+      "type": 7,
+      "version": 83
+    },
+    {
+      "extras": "{\"action\":\"\",\"category\":\"\",\"data\":\"\",\"extras\":[{\"key\":\"content\",\"type\":\"--es\",\"value\":\"这里写名称\"},{\"key\":\"type\",\"type\":\"--es\",\"value\":\"organizationName\"}]}",
+      "name": "Dhizuku修改组织",
+      "path": "com.syyf.quickpay.act.DhizukuActivity",
+      "pkg": "com.syyf.quickpay",
+      "subname": "",
+      "title": "Dhizuku修改组织名称",
+      "type": 0,
+      "version": 83,
+      "andVer": 24
+    },
+    {
+      "name": "百度公交",
+      "path": "baidumap://map/busnearby?busfrom=shortcut",
+      "subname": "百度",
+      "title": "公交：百度实时",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/N23qPnMaEicz2jUDxIKvr1qlviaSYbzYfJMsFADNodDpc84aD0rTfnDJWToouA1adibdDSpqsjHvRE74G1hym91QQ/640?wx_fmt=png&wxfrom=200",
+      "name": "实时公交",
+      "path": "amapuri://realtimeBus/home",
+      "subname": "高德",
+      "title": "公交：高德实时",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/mmbiz_png/N23qPnMaEicz2jUDxIKvr1qlviaSYbzYfJMsFADNodDpc84aD0rTfnDJWToouA1adibdDSpqsjHvRE74G1hym91QQ/640?wx_fmt=png&wxfrom=200",
+      "name": "公交关注",
+      "path": "amapuri://ajx_realbus/RealBusAttentionPage",
+      "subname": "高德",
+      "title": "公交：我的关注",
+      "type": 2
+    },
+    {
+      "icon": "http://mapdownload.autonavi.com/aocs/files/3/1/24B502228BB0C8A584523125D8408EE4.png",
+      "name": "回家",
+      "path": "amapuri://commute?clearStack=1&dest=home",
+      "subname": "高德",
+      "title": "高德：回家",
+      "type": 2
+    },
+    {
+      "icon": "http://mapdownload.autonavi.com/aocs/files/3/1/E71F54FD0516CC2CBF841AA3B71266D5.png",
+      "name": "去公司",
+      "path": "amapuri://commute?clearStack=1&dest=corp",
+      "subname": "高德",
+      "title": "高德：去公司",
+      "type": 2
+    },
+    {
+      "name": "腾讯公交",
+      "path": "qqmap://map/mippy?moduleName=realtimebus&appName=HomePage&statusBar=dark&animationType=right&channel=shortcutmenu",
+      "subname": "腾讯地图",
+      "title": "公交：腾讯实时",
+      "type": 2
+    },
+    {
+      "name": "乘车码",
+      "path": "qqmap://map/busCode",
+      "subname": "腾讯地图",
+      "title": "公交：腾讯地图乘车码",
+      "type": 2
+    },
+    {
+      "name": "极暗模式",
+      "title": "极暗模式(安卓12+)",
+      "subname": "设置",
+      "path": "com.android.settings.Settings$ReduceBrightColorsSettingsActivity",
+      "pkg": "com.android.settings",
+      "type": 0,
+      "andVer": 31
+    },
+    {
+      "name": "添加极暗磁贴",
+      "title": "极暗模式磁贴",
+      "subname": "需要安卓12+",
+      "path": "var=$(settings get secure sysui_qs_tiles)\nvar=${var/wifi,/wifi,reduce_brightness,}\nsettings put secure sysui_qs_tiles “$var”",
+      "type": 3,
+      "author": "酷安@Chikachan",
+      "workMode": 2,
+      "andVer": 31
+    },
+    {
+      "title": "夸克小说",
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_quark.png",
+      "extras": "{\"action\":\"android.intent.action.VIEW\",\"category\":\"\",\"data\":\"https://www.myquark.cn/?qk_biz\\u003dnovel\\u0026qk_module\\u003dbookshelf\",\"extras\":[]}",
+      "name": "书架",
+      "path": "com.ucpro.MainActivity",
+      "pkg": "com.quark.browser",
+      "subname": "夸克",
+      "type": 0
+    },
+    {
+      "icon": "android.resource://com.syyf.quickpay/drawable/quick_bluetooth",
+      "name": "蓝牙",
+      "title": "蓝牙开关(安卓12及以下)",
+      "subname": "开关",
+      "pkg": "{\"delay\":0,\"item\":{\"appId\":\"com.syyf.quickpay\",\"iconPath\":\"\",\"id\":0,\"name\":\"开蓝牙\",\"param1\":\"{\\\"extras\\\":[{\\\"key\\\":\\\"open\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"true\\\"}]}\",\"path\":\"com.syyf.quickpay.act.ToggleBleActivity\"}}",
+      "path": "{\"delay\":0,\"item\":{\"appId\":\"com.syyf.quickpay\",\"iconPath\":\"\",\"id\":0,\"name\":\"关蓝牙\",\"param1\":\"{\\\"extras\\\":[{\\\"key\\\":\\\"open\\\",\\\"type\\\":\\\"--ez\\\",\\\"value\\\":\\\"false\\\"}]}\",\"path\":\"com.syyf.quickpay.act.ToggleBleActivity\"}}",
+      "version": 71,
+      "type": 7
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
+      "name": "扫一扫",
+      "path": "imeituan://www.meituan.com/scanQRCode",
+      "subname": "美团",
+      "title": "美团扫一扫",
+      "type": 2
+    },
+    {
+      "icon": "http://mmbiz.qpic.cn/sz_mmbiz_png/nGDT6vKQ2NcAMdqubWjgmhZJ5QicJib2f8YNOppFwJg2XN2ydIl84j1QBACZLrm2ILZGcmk8ZH6Q4JibX1RDibqb7w/640?wx_fmt=png&wxfrom=200",
+      "name": "付款码",
+      "path": "imeituan://www.meituan.com/web?url=https://awp.meituan.com/payfe/union-pay-qrcode/index.html",
+      "subname": "美团",
+      "title": "美团付款码",
+      "author": "酷安@太多",
+      "type": 2
+    },
+    {
+      "name": "截图",
+      "subname": "shell",
+      "path": "input keyevent 120",
+      "title": "shell截图",
+      "type": 3,
+      "workMode": 2
+    },
+    {
+      "name": "菜鸟",
+      "path": "tbopen://m.taobao.com/tbopen/index.html?source=auto&action=ali.open.nav&module=h5&h5Url=https://m.duanqu.com/?_ariver_appid=11509317",
+      "subname": "淘宝",
+      "title": "淘宝 菜鸟裹裹",
+      "type": 2
+    },
+    {
+      "name": "芭芭农场",
+      "path": "tbopen://m.taobao.com/tbopen/index.html?source=auto&action=ali.open.nav&module=h5&h5Url=https://pages.tmall.com/wow/hdwk/act/2020nhj-single",
+      "subname": "淘宝",
+      "title": "淘宝 芭芭农场",
+      "type": 2
+    },
+    {
+      "name": "天猫农场",
+      "path": "tbopen://m.taobao.com/tbopen/index.html?source=auto&action=ali.open.nav&module=h5&h5Url=https://market.m.taobao.com/app/tmall-wireless/tmallfarm/index.html?disableNav=YES",
+      "subname": "淘宝",
+      "title": "淘宝 天猫农场",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
+      "name": "钉钉网页",
+      "path": "dingtalk://dingtalkclient/page/link?url=https://www.baidu.com",
+      "subname": "钉钉",
+      "title": "网页：钉钉打开网页",
+      "type": 2
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_dingding.png",
+      "name": "钉钉打卡",
+      "path": "dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html",
+      "subname": "钉钉",
+      "title": "钉钉打卡",
+      "type": 2,
+      "author": "酷安@墨汀"
+    },
+    {
+      "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/ic_pay_transfer.png",
+      "name": "转账",
+      "path": "upwallet://rn/rntransfer",
+      "subname": "云闪付",
+      "title": "云闪付：转账",
+      "type": 2
+    }
+  ]
+}

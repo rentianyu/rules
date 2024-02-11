@@ -1,0 +1,51 @@
+// 网络导入中，目标内容为标准的json，需按照以下字段进行编写
+// 字段释义：
+// name 导入后的名称；subname 导入后的副名称。
+// title 外部展示的标题，用于描述此规则。
+// icon 图标链接。
+// type 类型,
+// 0 活动/1 小程序/2 链接/3 Shell。
+// pkg 当type为0/2时，此项为包名；type为1时，此项为小程序id。
+// path 路径、shell指令。
+// andVer 需要的最低安卓api版本。
+// author 作者。
+// workMode 工作模式，0 普通，1 Root，2 Shizuku。
+// 规则编写示范：
+{
+    "data": [
+        {
+            "name": "极暗模式",
+            "title": "极暗模式(安卓12+)",
+            "subname": "设置",
+            "path": "com.android.settings.Settings$ReduceBrightColorsSettingsActivity",
+            "pkg": "com.android.settings",
+            "type": 0,
+            "andVer": 31
+        },
+        {
+            "icon": "https://gitee.com/night99/filebackup/raw/master/quickpay/icon/quick_weixin_health.png",
+            "name": "电子医保码",
+            "path": "pages/nhsa-code/index/index.html?channel=AAGYCx9OVG4gOuJJPPaZmysv",
+            "pkg": "gh_45334679e384",
+            "subname": "微信",
+            "title": "电子医保码",
+            "type": 1
+        },
+        {
+            "icon": "android.resource://com.syyf.quickpay/drawable/quick_weixin_scan",
+            "name": "扫一扫",
+            "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;launchFlags=0x14000000;package=com.tencent.mm;B.LauncherUI.From.Scaner.Shortcut=true;end",
+            "subname": "微信",
+            "title": "A旧版微信扫一扫",
+            "type": 2
+        },
+        {
+            "name": "截图",
+            "subname": "shell",
+            "path": "input keyevent 120",
+            "title": "shell截图",
+            "type": 3,
+            "workMode": 2
+        }
+    ]
+}
