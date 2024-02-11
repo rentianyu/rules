@@ -1,9 +1,9 @@
 {
     "data": [
         {
-            "name": "@小贝塔，QQ群：773276432，点击 测试 即可加入，开源地址：https://github.com/rentianyu/rules/tree/main/quick/README.md",
+            "name": "酷安@小贝塔，QQ群：773276432，点击 测试 即可加群，开源地址：https://github.com/rentianyu/rules/tree/main/quick/README.md",
             "title": "订阅地址：https://xbta.cc/qc",
-            "subname": "@小贝塔，QQ群：773276432，点击 测试 即可加入，开源地址：https://github.com/rentianyu/rules/tree/main/quick/README.md",
+            "subname": "维护地址 & 加入Q群",
             "path": "mqqopensdkapi://bizAgent/qm/qr?url=https%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Fk%3DK6WVSLEXVgRjicgZlpPafMarpjE3md2-%26authSig%3DcB%2BbFUzHvWM7dpcoP0F5HRIfM%2BGQDBuWYBThvlbYuyqBrZSE4ocnbhlC74bBIWuW",
             "type": 2
         },
