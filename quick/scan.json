@@ -29,10 +29,17 @@
             "type": 2
         },
         {
-            "name": "",
-            "title": "",
-            "path": "url",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/oppo_smart_scan.png",
+            "name": "京东_扫一扫",
+            "title": "京东_扫一扫",
+            "path": "openjdjrapp://com.jd.jrapp/operation/qrscan?jrcontainer=native",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东金融_扫一扫",
+            "title": "京东金融_扫一扫",
+            "path": "openjdjrapp://com.jd.jrapp/operation/qrscan?jrlogin=true&jrcontainer=native",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd_jr.png",
             "type": 2
         }
     ]
