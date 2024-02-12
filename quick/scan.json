@@ -8,6 +8,13 @@
             "type": 2
         },
         {
+            "name": "微信_扫一扫2",
+            "title": "微信_扫一扫2",
+            "path": "#Intent;action=com.tencent.mm.action.BIZSHORTCUT;S.LauncherUI.Shortcut.LaunchType=launch_type_scan_qrcode;end",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/wechat.png",
+            "type": 2
+        },
+        {
             "name": "支付宝_扫一扫",
             "title": "支付宝_扫一扫",
             "path": "alipays://platformapi/startapp?appId=10000007",
@@ -47,6 +54,13 @@
             "title": "京东金融_扫一扫",
             "path": "openjdjrapp://com.jd.jrapp/operation/qrscan?jrlogin=true&jrcontainer=native",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd_jr.png",
+            "type": 2
+        },
+        {
+            "name": "美团_扫一扫",
+            "title": "美团_扫一扫",
+            "path": "imeituan://www.meituan.com/scanQRCode",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/meituan.png",
             "type": 2
         }
     ]
