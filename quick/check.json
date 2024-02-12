@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/ali_dingding.ico",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/ali_dingding.png",
             "name": "钉钉打卡",
             "title": "钉钉打卡",
             "path": "dingtalk://dingtalkclient/page/link?url=https://attend.dingtalk.com/attend/index.html",
@@ -11,14 +11,14 @@
             "name": "云闪付_天天签到",
             "title": "云闪付_天天签到",
             "path": "upwallet://applet?encryptAppId=472741b326b7bb5c",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.png",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/uppay.png",
             "type": 2
         },
         {
             "name": "云闪付_会员中心-领积点",
             "title": "云闪付_会员中心-领积点",
             "path": "upwallet://applet?encryptAppId=472741b326b7bb5c&toLink=https://youhui.95516.com/newsign/public/app/index.html",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.png",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/uppay.png",
             "type": 2
         },
         {

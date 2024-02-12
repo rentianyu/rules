@@ -29,6 +29,13 @@
             "type": 2
         },
         {
+            "name": "淘宝_识图",
+            "title": "淘宝_识图",
+            "path": "taobao://h5.m.taobao.com/tusou/recognizer.html",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/oppo_smart_scan.png",
+            "type": 2
+        },
+        {
             "name": "京东_扫一扫",
             "title": "京东_扫一扫",
             "path": "openjdjrapp://com.jd.jrapp/operation/qrscan?jrcontainer=native",

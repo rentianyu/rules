@@ -34,7 +34,7 @@
         },
         {
             "title": "云闪付_合集",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/union_pay.png",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/uppay.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/upwallet.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
@@ -84,6 +84,14 @@
             "title": "扫一扫_合集",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/oppo_smart_scan.png",
             "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/scan.json'}]}",
+            "directly": true,
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity"
+        },
+        {
+            "title": "二维码_合集",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/qrcode.png",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/qrcode.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity"
