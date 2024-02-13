@@ -1,8 +1,15 @@
 {
     "data": [
         {
-            "name": "淘宝_打开指定网址（网址有时候需要url编码）",
-            "title": "淘宝_打开指定网址（网址有时候需要url编码）",
+            "name": "淘宝_打开指定网址",
+            "title": "淘宝_打开指定网址",
+            "path": "tbopen://m.taobao.com/tbopen/index.html?h5Url=网址",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/taobao.png",
+            "type": 2
+        },
+        {
+            "name": "淘宝_打开指定网址(网址可能要url编码)",
+            "title": "淘宝_打开指定网址(网址可能要url编码)",
             "path": "tbopen://m.taobao.com/tbopen/index.html?h5Url=网址",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/taobao.png",
             "type": 2
@@ -32,6 +39,13 @@
             "name": "淘宝_天猫超市-每日签到",
             "title": "淘宝_天猫超市-每日签到",
             "path": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fan%2Fcs%2Fact%2Fwupr%3Fspm%3Da3204.12691414-newhome.chaoshi-miao-tips.d_top.6ca25885lWNnPK%26wh_pid%3Dprivate-domain%252Fjournalisms-v2",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/taobao.png",
+            "type": 2
+        },
+        {
+            "name": "淘宝_价保中心",
+            "title": "淘宝_价保中心",
+            "path": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https://pages.tmall.com/wow/z/marketing-tools/mkt/price-center",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/taobao.png",
             "type": 2
         }

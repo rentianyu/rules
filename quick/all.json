@@ -103,6 +103,14 @@
             "directly": true,
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity"
+        },
+        {
+            "title": "小米社区_合集",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mi_miuibbs.png",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/mi_miuibbs.json'}]}",
+            "directly": true,
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity"
         }
     ]
 }

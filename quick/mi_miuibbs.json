@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "name": "小米社区_每日积分签到",
+            "title": "小米社区_每日积分签到",
+            "path": "mio://web.vip.miui.com/page/info/mio/mio/checkIn?ref=longpressshortcuts",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mi_miuibbs.png",
+            "type": 2
+        },
+        {
+            "name": "小米社区_拔萝卜(金币)签到",
+            "title": "小米社区_拔萝卜(金币)签到",
+            "path": "mio://web.vip.miui.com/page/info/mio/mio/arrive?ref=longpressshortcuts",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mi_miuibbs.png",
+            "type": 2
+        },
+        {
+            "name": "小米社区_内测中心",
+            "title": "小米社区_内测中心",
+            "path": "mio://web.vip.miui.com/page/info/mio/mio/internalTest?ref=longpressshortcuts",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mi_miuibbs.png",
+            "type": 2
+        }
+    ]
+}
