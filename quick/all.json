@@ -95,6 +95,14 @@
             "directly": true,
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity"
+        },
+        {
+            "title": "淘宝_合集",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/taobao.png",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/taobao.json'}]}",
+            "directly": true,
+            "pkg": "com.syyf.quickpay",
+            "path": "com.syyf.quickpay.act.RulesActivity"
         }
     ]
 }
