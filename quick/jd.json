@@ -13,6 +13,118 @@
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://msitepp-fm.jd.com/rest/priceprophone/priceProPhoneMenu'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
+        },
+        {
+            "name": "京东_充值中心-签到领充值金",
+            "title": "京东_充值中心-签到领充值金",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://mypoint.jd.com/predeem'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_京东秒杀-签到领京豆",
+            "title": "京东_京东秒杀-签到领京豆",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://pro.m.jd.com/mall/active/Md9FMi1pJXg2q7qc8CmE9FNYDS4/index.html'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_双签领奖励",
+            "title": "京东_双签领奖励",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://m.jr.jd.com/integrate/signin/index.html'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_东东农场",
+            "title": "京东_东东农场",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://h5.m.jd.com/pb/015686010/Bc9WX7MpCW7nW9QjZ5N3fFeJXMH/index.html'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_京东到家-鲜豆当钱花",
+            "title": "京东_京东到家-鲜豆当钱花",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://daojia.jd.com/taroh5/h5dist/#/pages/tabBar/signIn-t/index?channel=qiandao_indexball'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_京东超市-游戏-东东超市",
+            "title": "京东_京东超市-游戏-东东超市",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://pro.m.jd.com/mall/active/472hYWPS9d6GP7xtJzsWscXepKZf/index.html'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_服饰美妆-首页可领京豆",
+            "title": "京东_服饰美妆-首页可领京豆",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://h5.m.jd.com/pb/015261870/3X9hjuZtNuRnYJ9TF5ScqZ5n9ZME/index.html'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_京东国际-首页领京豆",
+            "title": "京东_京东国际-首页领京豆",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://gmart.jd.com/?channelId=331&appId=11&des=dolphin&dolphinId=11'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "# 京东_京东拍卖-我的领积分",
+            "title": "# 京东_京东拍卖-我的领积分",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://mipaimai.jd.com'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "# 京东_拍拍二手-签到有礼",
+            "title": "# 京东_拍拍二手-签到有礼",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/3S28janPLYmtFxypu37AYAGgivfp/index.html'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "# 京东_拍拍二手-签到有礼",
+            "title": "# 京东_拍拍二手-签到有礼",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/3S28janPLYmtFxypu37AYAGgivfp/index.html'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "# 京东_京东五金城",
+            "title": "# 京东_京东五金城",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/4RYbb8NtVAegmT35SuM2N3KKYLWt/index.html'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "# 京东_京东图书-签到赢好礼",
+            "title": "# 京东_京东图书-签到赢好礼",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/3SC6rw5iBg66qrXPGmZMqFDwcyXi/index.html'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "# 京东_我的爱车-积分签到",
+            "title": "# 京东_我的爱车-积分签到",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://m-car.jd.com/housekeeper/task?autoSign=true'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "# 京东_京东医药馆-京豆签到",
+            "title": "# 京东_京东医药馆-京豆签到",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/2KMRByvMg6Z2nwDmQ1StFTtKJc81/index.html'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "# 京东_京东保-天天领权益",
+            "title": "# 京东_京东保-天天领权益",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://iu.jr.jd.com/insurance/channel/interest'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
         }
     ]
 }
