@@ -67,7 +67,7 @@
         {
             "title": "MT管理器_合集",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mt_plus.png",
-            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/jd.json'}]}",
+            "extras": "{'extras':[{'key':'url','type':'--es','value':'https://p.xbta.cc/https://raw.githubusercontent.com/rentianyu/rules/main/quick/mt_plus.json'}]}",
             "directly": true,
             "pkg": "com.syyf.quickpay",
             "path": "com.syyf.quickpay.act.RulesActivity"
