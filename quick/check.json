@@ -231,6 +231,20 @@
             "path": "tbopen://m.taobao.com/tbopen/index.html?h5Url=https%3A%2F%2Fpages.tmall.com%2Fwow%2Fan%2Fcs%2Fact%2Fwupr%3Fspm%3Da3204.12691414-newhome.chaoshi-miao-tips.d_top.6ca25885lWNnPK%26wh_pid%3Dprivate-domain%252Fjournalisms-v2",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/taobao.png",
             "type": 2
+        },
+        {
+            "name": "小米社区_每日积分签到",
+            "title": "小米社区_每日积分签到",
+            "path": "mio://web.vip.miui.com/page/info/mio/mio/checkIn?ref=longpressshortcuts",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mi_miuibbs.png",
+            "type": 2
+        },
+        {
+            "name": "小米社区_拔萝卜(金币)签到",
+            "title": "小米社区_拔萝卜(金币)签到",
+            "path": "mio://web.vip.miui.com/page/info/mio/mio/arrive?ref=longpressshortcuts",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/mi_miuibbs.png",
+            "type": 2
         }
     ]
 }
