@@ -20,6 +20,7 @@
 ### 3. 感谢
 
 - [快捷方式](https://www.coolapk.com/apk/com.syyf.quickpay)作者：[酷安@syyf1092](http://www.coolapk.com/u/1197378)
+- 各软件界面`Shell`命令贡献者
 - Pure 清雨 图标包：[https://www.coolapk.com/appba/me.morirain.dev.iconpack.pure](https://www.coolapk.com/appba/me.morirain.dev.iconpack.pure)
 - 阿里巴巴矢量图库：[https://www.iconfont.cn](https://www.iconfont.cn)
 
