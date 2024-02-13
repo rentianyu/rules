@@ -31,13 +31,10 @@
         },
         {
             "name": "演示模式",
+            "title": "A系统界面演示模式",
             "pkg": "com.android.systemui",
             "path": "com.android.systemui.DemoMode",
-            "subname": "需要安卓11+(MIUI不支持)",
-            "title": "A系统界面演示模式",
-            "type": 0,
-            "directly": true,
-            "andVer": 30
+            "type": 0
         },
         {
             "name": "添加极暗磁贴",

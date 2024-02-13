@@ -17,9 +17,10 @@
         {
             "name": "微信_收款码",
             "title": "微信_收款码",
-            "path": "url",
+            "pkg": "com.tencent.mm",
+            "path": "com.tencent.mm.plugin.collect.ui.WalletCollectQrCodeUI",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/collect/wechatpay.png",
-            "type": 2
+            "type": 0
         },
         {
             "name": "支付宝_付款码",
@@ -50,10 +51,10 @@
             "type": 2
         },
         {
-            "name": "",
-            "title": "",
-            "path": "url",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/qrcode.png",
+            "name": "美团_付款码",
+            "title": "美团_付款码",
+            "path": "imeituan://www.meituan.com/web?url=https://awp.meituan.com/payfe/union-pay-qrcode/index.html",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/meituan.png",
             "type": 2
         },
         {
