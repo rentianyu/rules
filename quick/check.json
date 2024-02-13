@@ -149,57 +149,57 @@
             "type": 2
         },
         {
-            "name": "# 京东_京东拍卖-我的领积分",
-            "title": "# 京东_京东拍卖-我的领积分",
+            "name": "京东_京东拍卖-我的领积分",
+            "title": "京东_京东拍卖-我的领积分",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://mipaimai.jd.com'}'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
         {
-            "name": "# 京东_拍拍二手-签到有礼",
-            "title": "# 京东_拍拍二手-签到有礼",
+            "name": "京东_拍拍二手-签到有礼",
+            "title": "京东_拍拍二手-签到有礼",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/3S28janPLYmtFxypu37AYAGgivfp/index.html'}'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
         {
-            "name": "# 京东_拍拍二手-签到有礼",
-            "title": "# 京东_拍拍二手-签到有礼",
+            "name": "京东_拍拍二手-签到有礼",
+            "title": "京东_拍拍二手-签到有礼",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/3S28janPLYmtFxypu37AYAGgivfp/index.html'}'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
         {
-            "name": "# 京东_京东五金城",
-            "title": "# 京东_京东五金城",
+            "name": "京东_京东五金城",
+            "title": "京东_京东五金城",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/4RYbb8NtVAegmT35SuM2N3KKYLWt/index.html'}'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
         {
-            "name": "# 京东_京东图书-签到赢好礼",
-            "title": "# 京东_京东图书-签到赢好礼",
+            "name": "京东_京东图书-签到赢好礼",
+            "title": "京东_京东图书-签到赢好礼",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/3SC6rw5iBg66qrXPGmZMqFDwcyXi/index.html'}'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
         {
-            "name": "# 京东_我的爱车-积分签到",
-            "title": "# 京东_我的爱车-积分签到",
+            "name": "京东_我的爱车-积分签到",
+            "title": "京东_我的爱车-积分签到",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://m-car.jd.com/housekeeper/task?autoSign=true'}'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
         {
-            "name": "# 京东_京东医药馆-京豆签到",
-            "title": "# 京东_京东医药馆-京豆签到",
+            "name": "京东_京东医药馆-京豆签到",
+            "title": "京东_京东医药馆-京豆签到",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://prodev.m.jd.com/mall/active/2KMRByvMg6Z2nwDmQ1StFTtKJc81/index.html'}'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
         {
-            "name": "# 京东_京东保-天天领权益",
-            "title": "# 京东_京东保-天天领权益",
+            "name": "京东_京东保-天天领权益",
+            "title": "京东_京东保-天天领权益",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://iu.jr.jd.com/insurance/channel/interest'}'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
