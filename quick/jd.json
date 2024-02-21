@@ -50,13 +50,6 @@
             "type": 2
         },
         {
-            "name": "京东_京东超市-游戏-东东超市",
-            "title": "京东_京东超市-游戏-东东超市",
-            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://pro.m.jd.com/mall/active/472hYWPS9d6GP7xtJzsWscXepKZf/index.html'}",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
-            "type": 2
-        },
-        {
             "name": "京东_服饰美妆-首页可领京豆",
             "title": "京东_服饰美妆-首页可领京豆",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://h5.m.jd.com/pb/015261870/3X9hjuZtNuRnYJ9TF5ScqZ5n9ZME/index.html'}",
@@ -123,6 +116,20 @@
             "name": "京东_京东保-天天领权益",
             "title": "京东_京东保-天天领权益",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://iu.jr.jd.com/insurance/channel/interest'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_摇京豆",
+            "title": "京东_摇京豆",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://spa.jd.com'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_京东超市-游戏-东东超市",
+            "title": "京东_京东超市-游戏-东东超市",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://pro.m.jd.com/mall/active/472hYWPS9d6GP7xtJzsWscXepKZf/index.html'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         }

@@ -93,13 +93,6 @@
             "type": 2
         },
         {
-            "name": "京东_充值中心-签到领充值金",
-            "title": "京东_充值中心-签到领充值金",
-            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://mypoint.jd.com/predeem'}",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
-            "type": 2
-        },
-        {
             "name": "京东_京东秒杀-签到领京豆",
             "title": "京东_京东秒杀-签到领京豆",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://pro.m.jd.com/mall/active/Md9FMi1pJXg2q7qc8CmE9FNYDS4/index.html'}",
@@ -114,23 +107,9 @@
             "type": 2
         },
         {
-            "name": "京东_东东农场",
-            "title": "京东_东东农场",
-            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://h5.m.jd.com/pb/015686010/Bc9WX7MpCW7nW9QjZ5N3fFeJXMH/index.html'}",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
-            "type": 2
-        },
-        {
             "name": "京东_京东到家-鲜豆当钱花",
             "title": "京东_京东到家-鲜豆当钱花",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://daojia.jd.com/taroh5/h5dist/#/pages/tabBar/signIn-t/index?channel=qiandao_indexball'}",
-            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
-            "type": 2
-        },
-        {
-            "name": "京东_京东超市-游戏-东东超市",
-            "title": "京东_京东超市-游戏-东东超市",
-            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://pro.m.jd.com/mall/active/472hYWPS9d6GP7xtJzsWscXepKZf/index.html'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
@@ -201,6 +180,13 @@
             "name": "京东_京东保-天天领权益",
             "title": "京东_京东保-天天领权益",
             "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://iu.jr.jd.com/insurance/channel/interest'}'}",
+            "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
+            "type": 2
+        },
+        {
+            "name": "京东_摇京豆",
+            "title": "京东_摇京豆",
+            "path": "openapp.jdmobile://virtual?params={'category':'jump','des':'m','url':'https://spa.jd.com'}",
             "icon": "https://od.xbta.cc/api/raw?path=/img/icon/pkg/qingyu/jd.png",
             "type": 2
         },
